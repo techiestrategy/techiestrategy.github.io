@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/techiestrategy.github.io/react-tutorial/static/css/main.933e650f.css",
+    "main.js": "/techiestrategy.github.io/react-tutorial/static/js/main.a5c530b6.js",
+    "index.html": "/techiestrategy.github.io/react-tutorial/index.html",
+    "main.933e650f.css.map": "/techiestrategy.github.io/react-tutorial/static/css/main.933e650f.css.map",
+    "main.a5c530b6.js.map": "/techiestrategy.github.io/react-tutorial/static/js/main.a5c530b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.933e650f.css",
+    "static/js/main.a5c530b6.js"
+  ]
+}
